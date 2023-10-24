@@ -165,3 +165,4 @@ secrets/
 runs/
 *.code-workspace
 *.pt
+*.jpg
