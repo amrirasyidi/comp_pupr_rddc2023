@@ -163,5 +163,6 @@ cython_debug/
 data/
 secrets/
 runs/
+pred_out/
 *.code-workspace
 *.pt
