@@ -166,3 +166,4 @@ runs/
 pred_out/
 *.code-workspace
 *.pt
+*.jpg
