@@ -167,3 +167,5 @@ pred_out/
 *.code-workspace
 *.pt
 *.jpg
+# by dvc
+/data
