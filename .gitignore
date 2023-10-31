@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # additional
-data/
+# data/
 secrets/
 runs/
 pred_out/
