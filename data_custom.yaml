@@ -1,9 +1,0 @@
-
-train: D:\0_amri_local\14_pupr_roaddamagedetection\yolov8_custom\train
-val: D:\0_amri_local\14_pupr_roaddamagedetection\yolov8_custom\valid
-nc: 4
-names: ['longitudinal_crack', 'traverse_crack', 'alligator_crack' ,'pothole']
-  # 0:'longitudinal_crack'
-  # 10:'traverse_crack'
-  # 20:'alligator_crack'
-  # 40:'pothole'

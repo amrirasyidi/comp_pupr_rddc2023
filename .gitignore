@@ -160,9 +160,12 @@ cython_debug/
 #.idea/
 
 # additional
-data/
+# data/
 secrets/
 runs/
+pred_out/
 *.code-workspace
 *.pt
 *.jpg
+# by dvc
+/data
