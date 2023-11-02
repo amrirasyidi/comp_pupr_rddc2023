@@ -160,10 +160,9 @@ cython_debug/
 #.idea/
 
 # additional
-# data/
 secrets/
 runs/
-pred_out/
+custom_runs/
 *.code-workspace
 *.pt
 *.jpg
