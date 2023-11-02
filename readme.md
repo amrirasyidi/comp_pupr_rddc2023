@@ -1,3 +1,11 @@
+# Data Sources
+1. [PUPR Directories](https://drive.google.com/drive/folders/1ccn4SaP3iq89j6zRuxNPEMKvFkvVoTBr) - Manual annotation
+1. [Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022)](https://github.com/sekilab/RoadDamageDetector/tree/master)
+    - Images (.jpg) and annotations (.xml) are provided for the train set. The format of annotations is the same as pascalVOC.
+    - To exclude:
+        - D43: Cross walk blur
+        - D44: White line blur
+        - D50: Utility
 
 # Label mapping
 ## roboflow pupr
