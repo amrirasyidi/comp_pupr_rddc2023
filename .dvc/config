@@ -1,5 +1,0 @@
-[core]
-    remote = sembrani
-['remote "sembrani"']
-    url = s3://dvc-storage/
-    endpointurl = https://sembrani.techplatform.org
